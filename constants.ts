@@ -6,4 +6,4 @@ export const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiO
 
 // IMPORTANT: Replace with the actual origin of the parent application that will embed this iframe.
 // This is a security measure to prevent unauthorized domains from interacting with the app.
-export const PARENT_ORIGIN = 'https://your-central-app-domain.com';
+export const PARENT_ORIGIN = 'https://app-central-ai.vercel.app';
