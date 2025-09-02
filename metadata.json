@@ -1,0 +1,5 @@
+{
+  "name": "Product Management Micro-App",
+  "description": "A standalone micro-app to manage a list of products, designed to be embedded in an iframe and communicate with a parent application via postMessage.",
+  "requestFramePermissions": []
+}
